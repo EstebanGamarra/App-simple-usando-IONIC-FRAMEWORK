@@ -6,4 +6,4 @@ Utilizando el comando "ionic serve" desde la terminal de Visual Studio Code, se 
 
 Esto solo se puede realizar instalando el software necesario, Microsoft Visual Studio Code, Node.js y demás requisitos para utilizar IONIC FRAMEWORK que pueden verse en su página oficial (https://ionicframework.com)
 
-En este repositorio además, adjunto algunas capturas de cómo fueron los ejercicios desarrollados en el curso del SNPP. También agrego un video de la app funcionando.
+En este repositorio además, adjunto algunas capturas de cómo fueron los ejercicios desarrollados en el curso del SNPP para aprender a crear la app. También agrego un video de la app funcionando.
